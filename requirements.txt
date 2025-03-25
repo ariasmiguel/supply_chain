@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+clickhouse-driver==0.2.6
+lxml==5.1.0
+plotly==5.19.0
+polars==0.20.10
+requests==2.31.0

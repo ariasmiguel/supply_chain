@@ -1,0 +1,6 @@
+columns format version: 1
+4 columns:
+`date` Date
+`metric` LowCardinality(String)
+`value` Float64
+`is_preliminary` UInt8
